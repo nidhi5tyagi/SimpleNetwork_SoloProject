@@ -1,7 +1,7 @@
 # SimpleNetwork_SoloProject
 
 
-# Project Name
+## Project Name
 SimpleNetwork_SoloProject
 
 # Description
