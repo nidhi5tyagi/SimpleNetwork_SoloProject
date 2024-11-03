@@ -9,10 +9,10 @@ A basic network topology consisting of a router, a switch, and three PCs. Each P
 
 ### Files
 README.md: This file with setup instructions and documentation.
-networkDocument.doc
-
+simpleNetworkdocument.docx
 Network-Solo-Project.pkt
-#Requirements
+
+### Requirements
 Cisco Packet Tracer or compatible network simulation software.
 Basic understanding of networking and IP addressing.
 Setup Instructions
